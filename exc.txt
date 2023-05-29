@@ -1,0 +1,42 @@
+* --------------------------------------------------------------------- *
+22.04.2023 1:08:57 Лабораторная работа 3
+System.ArgumentNullException: Значение не может быть неопределенным.
+Имя параметра: image
+   в System.Drawing.Graphics.FromImage(Image image)
+   в AllLabs.Form10.button1_Click(Object sender, EventArgs e) в C:\Users\daria\OneDrive\Документы\2 курс\4 семестр\Программирование\Все лабораторные\AllLabs\Form10.cs:строка 70
+* --------------------------------------------------------------------- *
+22.04.2023 1:08:59 Лабораторная работа 3
+System.ArgumentNullException: Значение не может быть неопределенным.
+Имя параметра: image
+   в System.Drawing.Graphics.FromImage(Image image)
+   в AllLabs.Form10.button1_Click(Object sender, EventArgs e) в C:\Users\daria\OneDrive\Документы\2 курс\4 семестр\Программирование\Все лабораторные\AllLabs\Form10.cs:строка 70
+* --------------------------------------------------------------------- *
+22.04.2023 01:12:14 Лабораторная работа 3
+System.ArgumentNullException: Значение не может быть неопределенным.
+Имя параметра: image
+   в System.Drawing.Graphics.FromImage(Image image)
+   в AllLabs.Form10.button1_Click(Object sender, EventArgs e) в C:\Users\daria\OneDrive\Документы\2 курс\4 семестр\Программирование\Все лабораторные\AllLabs\Form10.cs:строка 70
+* --------------------------------------------------------------------- *
+23.04.2023 01:12:14 Лабораторная работа 3
+System.ArgumentNullException: Значение не может быть неопределенным.
+Имя параметра: image
+   в System.Drawing.Graphics.FromImage(Image image)
+   в AllLabs.Form10.button1_Click(Object sender, EventArgs e) в C:\Users\daria\OneDrive\Документы\2 курс\4 семестр\Программирование\Все лабораторные\AllLabs\Form10.cs:строка 70
+* --------------------------------------------------------------------- *
+25.04.2023 01:12:14 Лабораторная работа 3
+System.ArgumentNullException: Значение не может быть неопределенным.
+Имя параметра: image
+   в System.Drawing.Graphics.FromImage(Image image)
+   в AllLabs.Form10.button1_Click(Object sender, EventArgs e) в C:\Users\daria\OneDrive\Документы\2 курс\4 семестр\Программирование\Все лабораторные\AllLabs\Form10.cs:строка 70
+* --------------------------------------------------------------------- *
+26.04.2023 01:12:14 Лабораторная работа 3
+System.ArgumentNullException: Значение не может быть неопределенным.
+Имя параметра: image
+   в System.Drawing.Graphics.FromImage(Image image)
+   в AllLabs.Form10.button1_Click(Object sender, EventArgs e) в C:\Users\daria\OneDrive\Документы\2 курс\4 семестр\Программирование\Все лабораторные\AllLabs\Form10.cs:строка 70
+* --------------------------------------------------------------------- *
+29.04.2023 01:12:14 Лабораторная работа 3
+System.ArgumentNullException: Значение не может быть неопределенным.
+Имя параметра: image
+   в System.Drawing.Graphics.FromImage(Image image)
+   в AllLabs.Form10.button1_Click(Object sender, EventArgs e) в C:\Users\daria\OneDrive\Документы\2 курс\4 семестр\Программирование\Все лабораторные\AllLabs\Form10.cs:строка 70
